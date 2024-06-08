@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/danireve/">
   <img src="https://readme-typing-svg.demolab.com?font=Play&size=60&pause=2000&color=green&center=true&random=true&width=700&height=79&lines=SETHEJINN" />
 </a></p>
         
@@ -8,18 +7,18 @@
 
 ## FORMACIÓN
 
-- 2024 – (cursando) | **Master Big Data & Business Intelligence**, Universidad Isabel I de Burgos.
-- 2024 – (cursando) | **MBA en Administración y Gestión de Empresas**, Universidad Isabel I de Burgos.
-- 2024 – (cursando) | **Administración de Sistemas Informáticos en Red**, Ilerna.
-- 2023| Certificado Profesional en Data Analyst.
-- 2023| C2 Proficient EFSET English Certificate.
-- 2023| Complete PYTHON Game Development Course.
-- 2023| Curso de MySQL.
-- 2023| Proceso de Datos sucios a Datos limpios.
-- 2023| Preparar Datos para la Exploración.
-- 2023| Decisiones basadas en Datos.
-- 2023| Análisis Computacional de Datos
-- 2023| Analizar Datos para responder preguntas.
+- **Master Big Data & Business Intelligence**, Universidad Isabel I de Burgos.
+- **MBA en Administración y Gestión de Empresas**, Universidad Isabel I de Burgos.
+- **Administración de Sistemas Informáticos en Red**, Ilerna.
+- Certificado Profesional en Data Analyst.
+- C2 Proficient EFSET English Certificate.
+- Complete PYTHON Game Development Course.
+- Curso de MySQL.
+- Proceso de Datos sucios a Datos limpios.
+- Preparar Datos para la Exploración.
+- Decisiones basadas en Datos.
+- Análisis Computacional de Datos
+- Analizar Datos para responder preguntas.
 
 ## TECNOLOGIAS
 
