@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/danireve/">
-  <img src="https://readme-typing-svg.demolab.com?font=Play&size=60&pause=2000&color=green&center=true&random=true&width=700&height=79&lines=DANIEL REVERON" />
+  <img src="https://readme-typing-svg.demolab.com?font=Play&size=60&pause=2000&color=green&center=true&random=true&width=700&height=79&lines=SETHEJINN" />
 </a></p>
         
 <hr style="border-color:green;">
