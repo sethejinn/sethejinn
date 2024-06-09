@@ -33,12 +33,8 @@
 - Análisis Computacional de Datos
 - Analizar Datos para responder preguntas.
 
-## TECHNOLOGIES
-<p align="center"> SQL, MySQL, PostgreSQL, SQL Server, ETL, PL/SQL, Python, HTML, CSS, Support, Ticketing, Atlassian, Remedy, Redmine, NinjaOne, Active Directory, AnyDesk, TeamViewer, Windows Systems, Windows Server, Linux Systems, Ubuntu Server, Ubuntu, Debian, Kali, PfSense Firewall, Virtual Machines, VirtualBox, VMware, Github, Jira, Notion, Trello </p>
-
-## TECNOLOGIAS
-
-<p align="center"> SQL, MySQL, PostgreSQL, SQL Server, ETL, PL/SQL, Python, HTML, CSS, Soporte, Ticketing, Atlassian, Remedy, Redmine, NinjaOne, Active Directory, AnyDesk, TeamViewer, Sistemas Windows, Windows Server, Sistemas Linux, Ubuntu Server, Ubuntu, Debian, Kali, Firewall PfSense, Máquinas Virtuales, VirtualBox, VMware, Github, Jira, Notion, Trello </p>
+## TECHNOLOGIES / TECNOLOGÍAS
+<p align="center"> SQL, MySQL, PostgreSQL, SQL Server, ETL, PL/SQL, Python, HTML, CSS, Support, Ticketing, Atlassian, Remedy, Redmine, NinjaOne, Active Directory, AnyDesk, TeamViewer, Windows, Windows Server, Linux, Ubuntu Server, Ubuntu, Debian, Kali, PfSense Firewall, Virtual Machines, VirtualBox, VMware, Github, Jira, Notion, Trello </p>
 
 <hr style="border-color:green;">
 <p></p>
