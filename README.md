@@ -38,6 +38,11 @@
 - Análisis Computacional de Datos
 - Analizar Datos para responder preguntas.
 
+<p align="center">
+    <img src="https://media.tenor.com/ONv6f0zBNFYAAAAj/hugging-grogu.gif" />
+  </a>
+</p>
+
 ## TECHNOLOGIES / TECNOLOGÍAS
 <p align="center"> SQL, MySQL, PostgreSQL, SQL Server, ETL, PL/SQL, Python, HTML, CSS, Support, Ticketing, Atlassian, Remedy, Redmine, NinjaOne, Active Directory, AnyDesk, TeamViewer, Windows, Windows Server, Linux, Ubuntu Server, Ubuntu, Debian, Kali, PfSense Firewall, Virtual Machines, VirtualBox, VMware, Github, Jira, Notion, Trello </p>
 
