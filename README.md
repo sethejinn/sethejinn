@@ -5,8 +5,21 @@
 <hr style="border-color:green;">
 <p></p>
 
-## FORMACIÓN
+## EDUCATION
+- **Master's in Big Data & Business Intelligence**, Universidad Isabel I de Burgos.
+- **MBA in Business Administration and Management**, Universidad Isabel I de Burgos.
+- **Networked Systems Administration**, Ilerna.
+- Professional Certificate in Data Analysis.
+- C2 Proficient EFSET English Certificate.
+- Complete PYTHON Game Development Course.
+- MySQL Course.
+- PFrom Dirty Data to Clean Data.
+- Preparing Data for Exploration.
+- Data-Driven Decision Making.
+- Computational Data Analysis.
+- Analyzing Data to Answer Questions.
 
+## FORMACIÓN
 - **Master Big Data & Business Intelligence**, Universidad Isabel I de Burgos.
 - **MBA en Administración y Gestión de Empresas**, Universidad Isabel I de Burgos.
 - **Administración de Sistemas Informáticos en Red**, Ilerna.
@@ -19,6 +32,9 @@
 - Decisiones basadas en Datos.
 - Análisis Computacional de Datos
 - Analizar Datos para responder preguntas.
+
+## TECHNOLOGIES
+<p align="center"> SQL, MySQL, PostgreSQL, SQL Server, ETL, PL/SQL, Python, HTML, CSS, Support, Ticketing, Atlassian, Remedy, Redmine, NinjaOne, Active Directory, AnyDesk, TeamViewer, Windows Systems, Windows Server, Linux Systems, Ubuntu Server, Ubuntu, Debian, Kali, PfSense Firewall, Virtual Machines, VirtualBox, VMware, Github, Jira, Notion, Trello </p>
 
 ## TECNOLOGIAS
 
