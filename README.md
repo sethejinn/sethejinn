@@ -53,7 +53,6 @@
 [![Anydesk Icon](https://img.icons8.com/color/32/000000/anydesk.png)](https://www.anydesk.com/)
 [![Django Icon](https://img.icons8.com/color/48/000000/django.png)](https://www.djangoproject.com/)
 [![GitHub Icon](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/)
-[![Google Suite Icon](https://img.icons8.com/color/32/000000/google-logo.png)](https://gsuite.google.com/)
 [![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![Jira Icon](https://img.icons8.com/color/48/000000/jira.png)](https://www.atlassian.com/software/jira)
 [![Kali Icon](https://img.icons8.com/color/48/000000/kali-linux.png)](https://www.kali.org/)
