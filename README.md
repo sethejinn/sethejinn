@@ -1,7 +1,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Play&size=60&pause=2000&color=green&center=true&random=true&width=700&height=79&lines=SETHEJINN" />
 </a></p>
-        
+
+<p align="center">
+    <img src="https://media1.tenor.com/m/RYJZjeM7FPYAAAAd/leaves-thanks.gif" />
+  </a>
+</p>
+
 <hr style="border-color:green;">
 <p></p>
 
