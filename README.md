@@ -70,19 +70,14 @@
       <img src="https://github-readme-stats.vercel.app/api?username=sethejinn&theme=transparent&show_icons=true">
       <a href="https://github.com/iceyami/github-readme-stats">
       </a><p>
-        
-<p align="center">
-<a href=https://github.com/sethejinn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethejinn&langs_count=8" />
-</a></p>
-
-<hr style="border-color:green;">
-<p></p>
 
 <p align="center">
     <img src="https://media.tenor.com/MOFonahEVKUAAAAi/xs19-baby-yoda.gif" />
   </a>
 </p>
+
+<hr style="border-color:green;">
+<p></p>
 
 <p align="center">
     <img src="https://img.freepik.com/premium-photo/intelligence-analyst-soldier-analyzing-data-information-scre-poster-design-2d-a4-creative-ideas_655090-1124832.jpg">
