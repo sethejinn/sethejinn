@@ -10,6 +10,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/sethejinn?style=social)](https://github.com/sethejinn)  
 [![GitHub](https://img.shields.io/badge/GitHub-sethejinn-black?style=flat&logo=github)](https://github.com/sethejinn)  
 
+<p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sethejinn&theme=transparent&show_icons=true">
+      <a href="https://github.com/iceyami/github-readme-stats">
+      </a><p>
+        
 <hr style="border-color:green;">
 
 ## EDUCATION
@@ -80,12 +85,6 @@
 ![Creative Skills Badge](https://img.shields.io/badge/Skills-Video%20Games%20and%20Streaming-yellow)  
 ![Creative Skills Badge](https://img.shields.io/badge/Skills-Team%20Coordination-yellow)  
 ![Creative Skills Badge](https://img.shields.io/badge/Skills-Social%20Media%20and%20Marketing-yellow)  
-
-
-<p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sethejinn&theme=transparent&show_icons=true">
-      <a href="https://github.com/iceyami/github-readme-stats">
-      </a><p>
 
 ## EXPERIENCE
 
