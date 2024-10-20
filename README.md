@@ -37,8 +37,6 @@
   </a>
 </p>
 
-<hr style="border-color:green;">
-
 ## KEY TECH SKILLS  
 ![Key Skills Badge](https://img.shields.io/badge/Skills-SQL%20%28PostgreSQL%2C%20MySQL%29-green)  
 ![Key Skills Badge](https://img.shields.io/badge/Skills-Python-green)  
