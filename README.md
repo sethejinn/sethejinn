@@ -6,7 +6,7 @@
 
 
 # SETHEJINN
-**DATA ENGINEER & DATA ANALYST**  
+**DATA ENGINEER & PYTHON DEV**  
 [![GitHub followers](https://img.shields.io/github/followers/sethejinn?style=social)](https://github.com/sethejinn)  
 [![GitHub](https://img.shields.io/badge/GitHub-sethejinn-black?style=flat&logo=github)](https://github.com/sethejinn)  
 
