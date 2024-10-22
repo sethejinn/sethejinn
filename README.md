@@ -88,6 +88,13 @@
 ![Creative Skills Badge](https://img.shields.io/badge/Skills-Team%20Coordination-yellow)  
 ![Creative Skills Badge](https://img.shields.io/badge/Skills-Social%20Media%20and%20Marketing-yellow)  
 
+## PROGRAMING  
+
+<p align="center">
+<a href="https://github.com/sethejinn/sethejinn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethejinn&theme=dark&langs_count=10" />
+</a></p>
+
 ## EXPERIENCE
 
 ![Experience Badge](https://img.shields.io/badge/Experience-Data%20Engineer%20-%23FF5733)
