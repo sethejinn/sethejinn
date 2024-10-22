@@ -19,23 +19,24 @@
 
 ## EDUCATION
 
-![Education Badge](https://img.shields.io/badge/Education-Master%20in%20Big%20Data%20%26%20Business%20Intelligence-brightgreen)  
-![Education Badge](https://img.shields.io/badge/Education-MBA%20in%20Business%20Administration%20and%20Management-brightgreen)  
-![Education Badge](https://img.shields.io/badge/Education-Systems%20Administration%20in%20Network-brightgreen)  
-![Education Badge](https://img.shields.io/badge/Education-Cybersecurity%20Technician-brightgreen)  
-![Education Badge](https://img.shields.io/badge/Education-Professional%20Certificate%20in%20Data%20Analysis-brightgreen)  
-![Education Badge](https://img.shields.io/badge/Education-C2%20Proficient%20English%20Certificate-brightgreen)  
-![Education Badge](https://img.shields.io/badge/Education-Professional%20Python%20Course-brightgreen)  
-![Education Badge](https://img.shields.io/badge/Education-Data%20Structures%20in%20Python-brightgreen)  
-![Education Badge](https://img.shields.io/badge/Education-Professional%20Git%20Course-brightgreen)  
-![Education Badge](https://img.shields.io/badge/Education-Bash%20Scripting%20%E2%80%93%20DevOps%20Bootcamp-brightgreen)  
-![Education Badge](https://img.shields.io/badge/Education-Complete%20Python%20Game%20Development%20Course-brightgreen)  
-![Education Badge](https://img.shields.io/badge/Education-MySQL%20Course-brightgreen)  
-![Education Badge](https://img.shields.io/badge/Education-From%20Dirty%20Data%20to%20Clean%20Data-brightgreen)  
-![Education Badge](https://img.shields.io/badge/Education-Prepare%20Data%20for%20Exploration-brightgreen)  
-![Education Badge](https://img.shields.io/badge/Education-Data--driven%20Decision%20Making-brightgreen)  
-![Education Badge](https://img.shields.io/badge/Education-Computational%20Data%20Analysis-brightgreen)  
-![Education Badge](https://img.shields.io/badge/Education-Analyze%20Data%20to%20Answer%20Questions-brightgreen)  
+![Big Data Badge](https://img.shields.io/badge/Master%20in%20Big%20Data%20%26%20Business%20Intelligence-blue)  
+![MBA Badge](https://img.shields.io/badge/MBA%20in%20Business%20Administration%20and%20Management-blue)  
+![Systems Badge](https://img.shields.io/badge/Systems%20Administration%20in%20Network-blue)  
+![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity%20Technician-blue)  
+![Data Analysis Badge](https://img.shields.io/badge/Professional%20Certificate%20in%20Data%20Analysis-blue)  
+![English Badge](https://img.shields.io/badge/C2%20Proficient%20English%20Certificate-blue)  
+![Python Badge](https://img.shields.io/badge/Professional%20Python%20Course-blue)  
+![Data Structures Badge](https://img.shields.io/badge/Data%20Structures%20in%20Python-blue)  
+![Git Badge](https://img.shields.io/badge/Professional%20Git%20Course-blue)  
+![Bash Badge](https://img.shields.io/badge/Bash%20Scripting%20%E2%80%93%20DevOps%20Bootcamp-blue)  
+![Game Development Badge](https://img.shields.io/badge/Complete%20Python%20Game%20Development%20Course-blue)  
+![MySQL Badge](https://img.shields.io/badge/MySQL%20Course-blue)  
+![Data Cleaning Badge](https://img.shields.io/badge/From%20Dirty%20Data%20to%20Clean%20Data-blue)  
+![Exploration Badge](https://img.shields.io/badge/Prepare%20Data%20for%20Exploration-blue)  
+![Decision Making Badge](https://img.shields.io/badge/Data--driven%20Decision%20Making-blue)  
+![Computational Analysis Badge](https://img.shields.io/badge/Computational%20Data%20Analysis-blue)  
+![Analyze Data Badge](https://img.shields.io/badge/Analyze%20Data%20to%20Answer%20Questions-blue)
+
 
 <p align="center">
     <img src="https://media.tenor.com/ONv6f0zBNFYAAAAj/hugging-grogu.gif" />
@@ -43,20 +44,21 @@
 </p>
 
 ## KEY TECH SKILLS  
-![Key Skills Badge](https://img.shields.io/badge/Skills-SQL%20%28PostgreSQL%2C%20MySQL%29-green)  
-![Key Skills Badge](https://img.shields.io/badge/Skills-Python-green)  
-![Key Skills Badge](https://img.shields.io/badge/Skills-Polars-green)  
-![Key Skills Badge](https://img.shields.io/badge/Skills-Pandas-green)  
-![Key Skills Badge](https://img.shields.io/badge/Skills-Excel%20%26%20PowerBI-green)  
-![Key Skills Badge](https://img.shields.io/badge/Skills-HTML%20%26%20CSS-green)  
-![Key Skills Badge](https://img.shields.io/badge/Skills-Git%2C%20GitHub%20%26%20Bitbucket-green)  
-![Key Skills Badge](https://img.shields.io/badge/Skills-ETL-green)  
-![Key Skills Badge](https://img.shields.io/badge/Skills-Data%20Visualization-green)  
-![Key Skills Badge](https://img.shields.io/badge/Skills-Systems%20Administration-green)  
-![Key Skills Badge](https://img.shields.io/badge/Skills-Virtualization-green)  
-![Key Skills Badge](https://img.shields.io/badge/Skills-Active%20Directory-green)  
-![Key Skills Badge](https://img.shields.io/badge/Skills-Advanced%20troubleshooting-green)  
-![Key Skills Badge](https://img.shields.io/badge/Skills-Project%20Management%20%28Jira%29-green)  
+
+![Key Skills Badge](https://img.shields.io/badge/Skills-SQL%20%28PostgreSQL%2C%20MySQL%29-28a745?style=flat-square)  
+![Key Skills Badge](https://img.shields.io/badge/Skills-Python-28a745?style=flat-square)  
+![Key Skills Badge](https://img.shields.io/badge/Skills-Polars-28a745?style=flat-square)  
+![Key Skills Badge](https://img.shields.io/badge/Skills-Pandas-28a745?style=flat-square)  
+![Key Skills Badge](https://img.shields.io/badge/Skills-Excel%20%26%20PowerBI-28a745?style=flat-square)  
+![Key Skills Badge](https://img.shields.io/badge/Skills-HTML%20%26%20CSS-28a745?style=flat-square)  
+![Key Skills Badge](https://img.shields.io/badge/Skills-Git%2C%20GitHub%20%26%20Bitbucket-28a745?style=flat-square)  
+![Key Skills Badge](https://img.shields.io/badge/Skills-ETL-28a745?style=flat-square)  
+![Key Skills Badge](https://img.shields.io/badge/Skills-Data%20Visualization-28a745?style=flat-square)  
+![Key Skills Badge](https://img.shields.io/badge/Skills-Systems%20Administration-28a745?style=flat-square)  
+![Key Skills Badge](https://img.shields.io/badge/Skills-Virtualization-28a745?style=flat-square)  
+![Key Skills Badge](https://img.shields.io/badge/Skills-Active%20Directory-28a745?style=flat-square)  
+![Key Skills Badge](https://img.shields.io/badge/Skills-Advanced%20troubleshooting-28a745?style=flat-square)  
+![Key Skills Badge](https://img.shields.io/badge/Skills-Project%20Management%20%28Jira%29-28a745?style=flat-square)  
 
 ## SKILLS
 <p align="center"> </p>
