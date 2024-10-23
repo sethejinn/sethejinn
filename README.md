@@ -3,16 +3,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Agency+FB&size=85&pause=2000&color=green&center=true&random=true&width=700&height=150&lines=➤+SETHEJINN" />
 </a></p>
 
+
 <hr style="border-color:green;">
 
-
 # ☄️ SETHEJINN
-**DATA ENGINEER & PYTHON DEV**  
+**FULLSTACK DEVELOPER & DATA ENGINEER**  
 [![GitHub followers](https://img.shields.io/github/followers/sethejinn?style=social)](https://github.com/sethejinn)  
 [![GitHub](https://img.shields.io/badge/GitHub-sethejinn-black?style=flat&logo=github)](https://github.com/sethejinn)  
 [![Codewars](https://img.shields.io/badge/Codewars-BA0C2F?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/sethejinn) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/sethejinn/) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sethejinn)
+
+<p align="center">
+    <img src="https://cartoonsco-media.s3.amazonaws.com/uploads/2022/08/preview-of-snake-animated-gif-giving-thumbs-up.gif" height="150" />
+</p>
 
 <hr style="border-color:green;">
 
@@ -62,7 +66,7 @@
 
 ## 🛡️ EXPERIENCE
 
-![Data Engineer](https://img.shields.io/badge/Data%20Engineer-%236A5ACD?style=flat-square) ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-%234CAF50?style=flat-square) ![N2 Support Technician](https://img.shields.io/badge/N2%20Support%20Technician-%23FFA07A?style=flat-square) ![IT Technician](https://img.shields.io/badge/IT%20Technician-%23FF8C00?style=flat-square) ![Backend Developer](https://img.shields.io/badge/Backend%20Developer-%23FF4500?style=flat-square) ![Python Developer](https://img.shields.io/badge/Python%20Developer-%233CB371?style=flat-square)
+![Data Engineer](https://img.shields.io/badge/Data%20Engineer-%236A5ACD?style=flat-square) ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-%234CAF50?style=flat-square) ![N2 Support Technician](https://img.shields.io/badge/N2%20Support%20Technician-%23FFA07A?style=flat-square) ![IT Technician](https://img.shields.io/badge/IT%20Technician-%23FF8C00?style=flat-square) ![Backend Developer](https://img.shields.io/badge/Backend%20Developer-%23FF4500?style=flat-square) ![Python Developer](https://img.shields.io/badge/Python%20Developer-%233CB371?style=flat-square) ![Fullstack Developer](https://img.shields.io/badge/Fullstack%20Developer-%23FF5733?style=flat-square)
 
 <p align="center">
     <img src="https://www.animatedimages.org/data/media/636/animated-star-wars-image-0009.gif" />
