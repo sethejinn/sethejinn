@@ -12,6 +12,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sethejinn)]
 
+<p align="center"><img src="https://www.codewars.com/users/sethejinn/badges/large" alt="Codewars Badge"> </p>
+
 <hr style="border-color:green;">
 
 ## PROGRAMING  
