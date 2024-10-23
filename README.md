@@ -31,6 +31,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sethejinn)]
 
+![I Love Python](https://img.shields.io/badge/I%20%E2%9D%A4%20Python-%233776AB?style=flat-square)
+
 <hr style="border-color:green;">
 
 ## 🛡️ KEY TECH SKILLS  
