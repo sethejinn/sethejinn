@@ -7,7 +7,7 @@
 <hr style="border-color:green;">
 
 # ☄️ SETHEJINN
-**FULLSTACK DEVELOPER & DATA ENGINEER**  
+**BACKEND DEVELOPER & DATA ENGINEER**  
 [![GitHub followers](https://img.shields.io/github/followers/sethejinn?style=social)](https://github.com/sethejinn)  
 [![GitHub](https://img.shields.io/badge/GitHub-sethejinn-black?style=flat&logo=github)](https://github.com/sethejinn)  
 [![Codewars](https://img.shields.io/badge/Codewars-BA0C2F?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/sethejinn) 
