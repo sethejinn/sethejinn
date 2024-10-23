@@ -10,6 +10,9 @@
 **DATA ENGINEER & PYTHON DEV**  
 [![GitHub followers](https://img.shields.io/github/followers/sethejinn?style=social)](https://github.com/sethejinn)  
 [![GitHub](https://img.shields.io/badge/GitHub-sethejinn-black?style=flat&logo=github)](https://github.com/sethejinn)  
+[![Codewars](https://img.shields.io/badge/Codewars-BA0C2F?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/sethejinn) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/sethejinn/) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sethejinn)
 
 <hr style="border-color:green;">
 
