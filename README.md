@@ -98,7 +98,7 @@
 
 <p align="center">
 <a href="https://github.com/sethejinn/sethejinn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethejinn&theme=dark&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethejinn&theme=dark&langs_count=20" />
 </a></p>
 
 ## EXPERIENCE
