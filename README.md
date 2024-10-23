@@ -62,8 +62,10 @@
 ![Key Skills Badge](https://img.shields.io/badge/Skills-Advanced%20troubleshooting-28a745?style=flat-square)  
 ![Key Skills Badge](https://img.shields.io/badge/Skills-Project%20Management%20%28Jira%29-28a745?style=flat-square)  
 
-## SKILLS
-<p align="center"> </p>
+<p align="center">
+    <img src="https://media.tenor.com/MOFonahEVKUAAAAi/xs19-baby-yoda.gif" />
+  </a>
+</p>
 
 ![Technical Skills Badge](https://img.shields.io/badge/Skills-Database%20Administration-lightblue)  
 ![Technical Skills Badge](https://img.shields.io/badge/Skills-Programming%20Languages-lightblue)  
@@ -105,9 +107,11 @@
 ![Experience Badge](https://img.shields.io/badge/Experience-IT%20Technician-%23FF5733)
 
 <p align="center">
-    <img src="https://media.tenor.com/MOFonahEVKUAAAAi/xs19-baby-yoda.gif" />
+    <img src="https://www.animatedimages.org/data/media/636/animated-star-wars-image-0009.gif" />
   </a>
 </p>
+## SKILLS
+<p align="center"> </p>
 
 ## LANGUAGES  
 ![Language Badge](https://img.shields.io/badge/Language-C2%20Spanish%20%28bilingual%29-0056D2)  
