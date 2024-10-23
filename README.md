@@ -19,31 +19,12 @@
 
 <hr style="border-color:green;">
 
-## EDUCATION
-
-![Big Data Badge](https://img.shields.io/badge/Master%20in%20Big%20Data%20%26%20Business%20Intelligence-blue)  
-![MBA Badge](https://img.shields.io/badge/MBA%20in%20Business%20Administration%20and%20Management-blue)  
-![Systems Badge](https://img.shields.io/badge/Systems%20Administration%20in%20Network-blue)  
-![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity%20Technician-blue)  
-![Data Analysis Badge](https://img.shields.io/badge/Professional%20Certificate%20in%20Data%20Analysis-blue)  
-![English Badge](https://img.shields.io/badge/C2%20Proficient%20English%20Certificate-blue)  
-![Python Badge](https://img.shields.io/badge/Professional%20Python%20Course-blue)  
-![Data Structures Badge](https://img.shields.io/badge/Data%20Structures%20in%20Python-blue)  
-![Git Badge](https://img.shields.io/badge/Professional%20Git%20Course-blue)  
-![Bash Badge](https://img.shields.io/badge/Bash%20Scripting%20%E2%80%93%20DevOps%20Bootcamp-blue)  
-![Game Development Badge](https://img.shields.io/badge/Complete%20Python%20Game%20Development%20Course-blue)  
-![MySQL Badge](https://img.shields.io/badge/MySQL%20Course-blue)  
-![Data Cleaning Badge](https://img.shields.io/badge/From%20Dirty%20Data%20to%20Clean%20Data-blue)  
-![Exploration Badge](https://img.shields.io/badge/Prepare%20Data%20for%20Exploration-blue)  
-![Decision Making Badge](https://img.shields.io/badge/Data--driven%20Decision%20Making-blue)  
-![Computational Analysis Badge](https://img.shields.io/badge/Computational%20Data%20Analysis-blue)  
-![Analyze Data Badge](https://img.shields.io/badge/Analyze%20Data%20to%20Answer%20Questions-blue)
-
+## PROGRAMING  
 
 <p align="center">
-    <img src="https://media.tenor.com/ONv6f0zBNFYAAAAj/hugging-grogu.gif" />
-  </a>
-</p>
+<a href="https://github.com/sethejinn/sethejinn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethejinn&theme=dark&langs_count=20" />
+</a></p>
 
 ## KEY TECH SKILLS  
 
@@ -94,12 +75,35 @@
 ![Creative Skills Badge](https://img.shields.io/badge/Skills-Team%20Coordination-yellow)  
 ![Creative Skills Badge](https://img.shields.io/badge/Skills-Social%20Media%20and%20Marketing-yellow)  
 
-## PROGRAMING  
+<p align="center">
+    <img src="https://i.gifer.com/origin/d1/d17fc7f864fdb8deae36bc3bf8cf6d05_w200.gif" />
+  </a>
+</p>
+
+## EDUCATION
+
+![Big Data Badge](https://img.shields.io/badge/Master%20in%20Big%20Data%20%26%20Business%20Intelligence-blue)  
+![MBA Badge](https://img.shields.io/badge/MBA%20in%20Business%20Administration%20and%20Management-blue)  
+![Systems Badge](https://img.shields.io/badge/Systems%20Administration%20in%20Network-blue)  
+![Cybersecurity Badge](https://img.shields.io/badge/Cybersecurity%20Technician-blue)  
+![Data Analysis Badge](https://img.shields.io/badge/Professional%20Certificate%20in%20Data%20Analysis-blue)  
+![English Badge](https://img.shields.io/badge/C2%20Proficient%20English%20Certificate-blue)  
+![Python Badge](https://img.shields.io/badge/Professional%20Python%20Course-blue)  
+![Data Structures Badge](https://img.shields.io/badge/Data%20Structures%20in%20Python-blue)  
+![Git Badge](https://img.shields.io/badge/Professional%20Git%20Course-blue)  
+![Bash Badge](https://img.shields.io/badge/Bash%20Scripting%20%E2%80%93%20DevOps%20Bootcamp-blue)  
+![Game Development Badge](https://img.shields.io/badge/Complete%20Python%20Game%20Development%20Course-blue)  
+![MySQL Badge](https://img.shields.io/badge/MySQL%20Course-blue)  
+![Data Cleaning Badge](https://img.shields.io/badge/From%20Dirty%20Data%20to%20Clean%20Data-blue)  
+![Exploration Badge](https://img.shields.io/badge/Prepare%20Data%20for%20Exploration-blue)  
+![Decision Making Badge](https://img.shields.io/badge/Data--driven%20Decision%20Making-blue)  
+![Computational Analysis Badge](https://img.shields.io/badge/Computational%20Data%20Analysis-blue)  
+![Analyze Data Badge](https://img.shields.io/badge/Analyze%20Data%20to%20Answer%20Questions-blue)
 
 <p align="center">
-<a href="https://github.com/sethejinn/sethejinn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethejinn&theme=dark&langs_count=20" />
-</a></p>
+    <img src="https://media.tenor.com/ONv6f0zBNFYAAAAj/hugging-grogu.gif" />
+  </a>
+</p>
 
 ## EXPERIENCE
 
