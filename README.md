@@ -110,7 +110,6 @@
     <img src="https://www.animatedimages.org/data/media/636/animated-star-wars-image-0009.gif" />
   </a>
 </p>
-## SKILLS
 <p align="center"> </p>
 
 ## LANGUAGES  
