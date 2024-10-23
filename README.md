@@ -10,10 +10,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/sethejinn?style=social)](https://github.com/sethejinn)  
 [![GitHub](https://img.shields.io/badge/GitHub-sethejinn-black?style=flat&logo=github)](https://github.com/sethejinn)  
 
-<p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sethejinn&theme=transparent&show_icons=true">
-      </a><p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=sethejinn)]
 
 <hr style="border-color:green;">
@@ -126,6 +122,10 @@
 <hr style="border-color:green;">
 <p></p>
 
+<p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sethejinn&theme=transparent&show_icons=true">
+      </a><p>
+        
 <p align="center">
     <img src="https://media1.tenor.com/m/RYJZjeM7FPYAAAAd/leaves-thanks.gif" />
   </a>
