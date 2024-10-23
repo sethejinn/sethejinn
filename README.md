@@ -14,7 +14,9 @@
       <img src="https://github-readme-stats.vercel.app/api?username=sethejinn&theme=transparent&show_icons=true">
       <a href="https://github.com/iceyami/github-readme-stats">
       </a><p>
-        
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sethejinn)]
+
 <hr style="border-color:green;">
 
 ## EDUCATION
