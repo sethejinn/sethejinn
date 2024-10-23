@@ -10,18 +10,20 @@
 [![GitHub followers](https://img.shields.io/github/followers/sethejinn?style=social)](https://github.com/sethejinn)  
 [![GitHub](https://img.shields.io/badge/GitHub-sethejinn-black?style=flat&logo=github)](https://github.com/sethejinn)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sethejinn)]
-
-<p align="center"><img src="https://www.codewars.com/users/sethejinn/badges/large" alt="Codewars Badge"> </p>
-
 <hr style="border-color:green;">
 
-## PROGRAMING  
+## PROGRAMMING  
 
 <p align="center">
 <a href="https://github.com/sethejinn/sethejinn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethejinn&theme=dark&langs_count=20" />
 </a></p>
+
+<p align="center"><img src="https://www.codewars.com/users/sethejinn/badges/large" alt="Codewars Badge"> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sethejinn)]
+
+<hr style="border-color:green;">
 
 ## KEY TECH SKILLS  
 
