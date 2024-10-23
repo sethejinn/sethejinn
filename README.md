@@ -67,6 +67,8 @@
   </a>
 </p>
 
+## SKILLS  
+
 ![Technical Skills Badge](https://img.shields.io/badge/Skills-Database%20Administration-lightblue)  
 ![Technical Skills Badge](https://img.shields.io/badge/Skills-Programming%20Languages-lightblue)  
 ![Technical Skills Badge](https://img.shields.io/badge/Skills-Data%20Engineering-lightblue)  
