@@ -1,11 +1,12 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Play&size=60&pause=2000&color=green&center=true&random=true&width=700&height=79&lines=SETHEJINN" />
+  <img src="https://readme-typing-svg.demolab.com?font=Agency+FB&size=90&pause=2000&color=green&center=true&random=true&width=700&height=150&lines=SETHEJINN" />
 </a></p>
 
 <hr style="border-color:green;">
 
 
-# SETHEJINN
+# SETHEJINN ☄️
 **DATA ENGINEER & PYTHON DEV**  
 [![GitHub followers](https://img.shields.io/github/followers/sethejinn?style=social)](https://github.com/sethejinn)  
 [![GitHub](https://img.shields.io/badge/GitHub-sethejinn-black?style=flat&logo=github)](https://github.com/sethejinn)  
