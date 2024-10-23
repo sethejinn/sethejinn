@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Agency+FB&size=100&pause=2000&color=green&center=true&random=true&width=700&height=250&lines=SETHEJINN" />
+  <img src="https://readme-typing-svg.demolab.com?font=Agency+FB&size=85&pause=2000&color=green&center=true&random=true&width=700&height=150&lines=SETHEJINN" />
 </a></p>
 
 <hr style="border-color:green;">
