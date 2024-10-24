@@ -1,7 +1,11 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Agency+FB&size=85&pause=2000&color=green&center=true&random=true&width=700&height=150&lines=➤.+.+.+SETHEJINN+.+.+." />
+  <img src="https://readme-typing-svg.demolab.com?font=Agency+FB&size=85&pause=2000&color=green&center=true&random=true&width=700&height=130&lines=➤.+.+.+SETHEJINN+.+.+." />
 </a></p>
+
+<p align="center">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN5NXhsdjhjbTh5bDNpZTBrNjY4dGlkaTd4bmwweHg1MWVvaWN3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0Iy0z5m3FN9T6HuM/giphy.webp" height="150" />
+</p>
 
 <hr style="border-color:green;">
 
