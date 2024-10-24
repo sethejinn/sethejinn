@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Agency+FB&size=85&pause=2000&color=green&center=true&random=true&width=700&height=150&lines=➤.+.+.+SETHEJINN+.+.+." />
 </a></p>
 
-
 <hr style="border-color:green;">
 
 # ☄️ SETHEJINN
@@ -61,7 +60,7 @@
 
 ## 🛡️ EXPERIENCE
 
-![Data Engineer](https://img.shields.io/badge/Data%20Engineer-%236A5ACD?style=flat-square) ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-%234CAF50?style=flat-square) ![N2 Support Technician](https://img.shields.io/badge/N2%20Support%20Technician-%23FFA07A?style=flat-square) ![IT Technician](https://img.shields.io/badge/IT%20Technician-%23FF8C00?style=flat-square) ![Backend Developer](https://img.shields.io/badge/Backend%20Developer-%23FF4500?style=flat-square) ![Python Developer](https://img.shields.io/badge/Python%20Developer-%233CB371?style=flat-square) ![Fullstack Developer](https://img.shields.io/badge/Fullstack%20Developer-%23FF5733?style=flat-square)
+![Data Engineer](https://img.shields.io/badge/Data%20Engineer-6A5ACD?style=flat-square) ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-4CAF50?style=flat-square) ![Python Developer](https://img.shields.io/badge/Python%20Developer-3CB371?style=flat-square) ![Fullstack Developer](https://img.shields.io/badge/Fullstack%20Developer-FF5733?style=flat-square) ![Backend Developer](https://img.shields.io/badge/Backend%20Developer-FF4500?style=flat-square) ![IT Technician](https://img.shields.io/badge/IT%20Technician-FF8C00?style=flat-square) ![N2 Support Technician](https://img.shields.io/badge/N2%20Support%20Technician-FFA07A?style=flat-square)
 
 <p align="center">
     <img src="https://www.animatedimages.org/data/media/636/animated-star-wars-image-0009.gif" />
@@ -71,7 +70,7 @@
 
 ## 🛡️ LANGUAGES  
 
-![C2 Spanish (bilingual)](https://img.shields.io/badge/C2%20Spanish%20%28bilingual%29-0056D2?style=flat-square) ![C2 English (bilingual)](https://img.shields.io/badge/C2%20English%20%28bilingual%29-28A745?style=flat-square) ![B2 French](https://img.shields.io/badge/B2%20French-FF5733?style=flat-square) ![HSK Level 2 Chinese](https://img.shields.io/badge/HSK%20Level%202%20Chinese-F39C12?style=flat-square)
+![C2 Spanish (bilingual)](https://img.shields.io/badge/C2%20Spanish%20%28bilingual%29-FF0000?style=flat-square) ![C2 English (bilingual)](https://img.shields.io/badge/C2%20English%20%28bilingual%29-0033CC?style=flat-square) ![B2 French](https://img.shields.io/badge/B2%20French-0055A4?style=flat-square) ![HSK Level 2 Chinese](https://img.shields.io/badge/HSK%20Level%202%20Chinese-DE291E?style=flat-square)
 
 <hr style="border-color:green;">
 <p></p>
