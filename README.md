@@ -86,5 +86,6 @@
   </a>
 </p>
 
-![I Love Python](https://img.shields.io/badge/I%20%E2%9D%A4%20Python-%233776AB?style=flat-square) ![I Love SQL](https://img.shields.io/badge/I%20%E2%9D%A4%20SQL-%23438D4B?style=flat-square)
+![I Love Python](https://img.shields.io/badge/I%20%E2%9D%A4%20Python-%233776AB?style=flat-square) ![I Love SQL](https://img.shields.io/badge/I%20%E2%9D%A4%20SQL-%23438D4B?style=flat-square) ![I Love Developing Videogames](https://img.shields.io/badge/I%20%E2%9D%A4%20Developing%20Videogames-%23FF5733?style=flat-square)
+
 
