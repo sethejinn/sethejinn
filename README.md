@@ -26,7 +26,7 @@
 
 <p align="center"><img src="https://www.codewars.com/users/sethejinn/badges/large" alt="Codewars Badge"> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sethejinn)]
+![trophy](https://github-profile-trophy.vercel.app/?username=sethejinn)
 
 ![I Love Python](https://img.shields.io/badge/I%20%E2%9D%A4%20Python-%233776AB?style=flat-square)
 
