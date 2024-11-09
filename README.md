@@ -20,19 +20,6 @@
 
 <hr style="border-color:green;">
 
-## 🛡️ PROGRAMMING  
-
-<p align="center">
-<a href="https://github.com/sethejinn/sethejinn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethejinn&theme=dark&langs_count=20" />
-</a></p>
-
-<p align="center"><img src="https://www.codewars.com/users/sethejinn/badges/large" alt="Codewars Badge"> </p>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sethejinn)
-
-<hr style="border-color:green;">
-
 ## 🛡️ KEY TECH SKILLS  
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-0072B8?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=black) ![Polars](https://img.shields.io/badge/Polars-4B8BBE?style=flat-square&logo=polars&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![ETL](https://img.shields.io/badge/ETL-0072B8?style=flat-square) ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FFB845?style=flat-square) ![Systems Administration](https://img.shields.io/badge/Systems%20Administration-FF4700?style=flat-square) ![Virtualization](https://img.shields.io/badge/Virtualization-5B9BD5?style=flat-square) ![Active Directory](https://img.shields.io/badge/Active%20Directory-0089D3?style=flat-square) ![Advanced Troubleshooting](https://img.shields.io/badge/Advanced%20Troubleshooting-F4C20D?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white) ![Project Management](https://img.shields.io/badge/Jira%20Project%20Management-0052CC?style=flat-square)
@@ -52,6 +39,19 @@
     <img src="https://i.gifer.com/origin/d1/d17fc7f864fdb8deae36bc3bf8cf6d05_w200.gif" />
   </a>
 </p>
+
+<hr style="border-color:green;">
+
+## 🛡️ PROGRAMMING  
+
+<p align="center">
+<a href="https://github.com/sethejinn/sethejinn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethejinn&theme=dark&langs_count=20" />
+</a></p>
+
+<p align="center"><img src="https://www.codewars.com/users/sethejinn/badges/large" alt="Codewars Badge"> </p>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=sethejinn)
 
 <hr style="border-color:green;">
 
