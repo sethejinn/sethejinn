@@ -66,7 +66,7 @@
 
 <hr style="border-color:green;">
 
-## 🛡️ EXPERIENCE
+## 🛡️ ROLES
 
 ![Data Engineer](https://img.shields.io/badge/Data%20Engineer-6A5ACD?style=flat-square) ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-4CAF50?style=flat-square) ![Python Developer](https://img.shields.io/badge/Python%20Developer-3CB371?style=flat-square) ![Fullstack Developer](https://img.shields.io/badge/Fullstack%20Developer-FF5733?style=flat-square) ![Backend Developer](https://img.shields.io/badge/Backend%20Developer-FF4500?style=flat-square) ![IT Technician](https://img.shields.io/badge/IT%20Technician-FF8C00?style=flat-square) ![N2 Support Technician](https://img.shields.io/badge/N2%20Support%20Technician-FFA07A?style=flat-square)
 
