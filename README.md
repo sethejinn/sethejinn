@@ -81,7 +81,7 @@
 
 <p align="center">
 <a href="https://github.com/sethejinn/sethejinn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethejinn&theme=dark&langs_count=25" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethejinn&theme=dark&langs_count=20" />
 </a></p>
 
 <p align="center"><img src="https://www.codewars.com/users/sethejinn/badges/large" alt="Codewars Badge"> </p>
