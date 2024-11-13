@@ -87,10 +87,6 @@
 <p align="center"><img src="https://www.codewars.com/users/sethejinn/badges/large" alt="Codewars Badge"> </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sethejinn)
-
-<p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sethejinn&theme=transparent&show_icons=true">
-      </a><p>
         
 <p align="center">
     <img src="https://media1.tenor.com/m/RYJZjeM7FPYAAAAd/leaves-thanks.gif" />
