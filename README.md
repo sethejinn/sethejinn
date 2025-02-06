@@ -95,4 +95,4 @@
 
 <hr style="border-color:green;">
 
-![I Love Python](https://img.shields.io/badge/I%20%E2%9D%A4%20Python-%233776AB?style=flat-square) ![I Love SQL](https://img.shields.io/badge/I%20%E2%9D%A4%20SQL-%23438D4B?style=flat-square) ![I Love Videogames](https://img.shields.io/badge/I%20%E2%9D%A4%20Videogames-%23FF5733?style=flat-square)
+![I Love Django](https://img.shields.io/badge/I%20%E2%9D%A4%20Django-%233776AB?style=flat-square) ![I Love SQL](https://img.shields.io/badge/I%20%E2%9D%A4%20SQL-%23438D4B?style=flat-square) ![I Love Videogames](https://img.shields.io/badge/I%20%E2%9D%A4%20Videogames-%23FF5733?style=flat-square)
