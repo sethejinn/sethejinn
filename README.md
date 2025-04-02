@@ -10,7 +10,7 @@
 <hr style="border-color:green;">
 
 # ☄️ SETHEJINN
-**BACKEND DEVELOPER & DATA ENGINEER**  
+**FULLSTACK DEVELOPER**  
 
 [![GitHub followers](https://img.shields.io/github/followers/sethejinn?style=social)](https://github.com/sethejinn) [![GitHub](https://img.shields.io/badge/GitHub-sethejinn-black?style=flat&logo=github)](https://github.com/sethejinn) [![Codewars](https://img.shields.io/badge/Codewars-BA0C2F?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/sethejinn) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/sethejinn/) [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sethejinn) [![Daily.dev](https://img.shields.io/badge/Daily.dev-1A73E8?style=flat&logo=daily.dev&logoColor=white)](https://app.daily.dev/sethejinn) [![OpenSauced](https://img.shields.io/badge/OpenSauced-FF4500?style=flat&logo=open-sauced&logoColor=white)](https://app.opensauced.pizza/u/sethejinn)
 
