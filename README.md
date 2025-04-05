@@ -252,7 +252,19 @@
 
 ## 🛡️ EDUCATION
 
-![Master in Big Data & Business Intelligence](https://img.shields.io/badge/Master%20in%20Big%20Data%20%26%20Business%20Intelligence-blue?style=flat-square) ![MBA in Business Administration and Management](https://img.shields.io/badge/MBA%20in%20Business%20Administration%20and%20Management-blue?style=flat-square) ![Systems Administration in Network](https://img.shields.io/badge/Systems%20Administration%20in%20Network-lightblue?style=flat-square) ![Cybersecurity Technician](https://img.shields.io/badge/Cybersecurity%20Technician-lightblue?style=flat-square) ![Professional Certificate in Data Analysis](https://img.shields.io/badge/Professional%20Certificate%20in%20Data%20Analysis-lightblue?style=flat-square) ![C2 Proficient English Certificate](https://img.shields.io/badge/C2%20Proficient%20English%20Certificate-lightblue?style=flat-square) ![Professional Python Course](https://img.shields.io/badge/Professional%20Python%20Course-lightgreen?style=flat-square) ![Data Structures in Python](https://img.shields.io/badge/Data%20Structures%20in%20Python-lightgreen?style=flat-square) ![Professional Git Course](https://img.shields.io/badge/Professional%20Git%20Course-lightgreen?style=flat-square) ![Bash Scripting – DevOps Bootcamp](https://img.shields.io/badge/Bash%20Scripting%20%E2%80%93%20DevOps%20Bootcamp-lightgreen?style=flat-square) ![Complete Python Game Development Course](https://img.shields.io/badge/Complete%20Python%20Game%20Development%20Course-yellow?style=flat-square) ![MySQL Course](https://img.shields.io/badge/MySQL%20Course-yellow?style=flat-square) ![From Dirty Data to Clean Data](https://img.shields.io/badge/From%20Dirty%20Data%20to%20Clean%20Data-yellow?style=flat-square) ![Prepare Data for Exploration](https://img.shields.io/badge/Prepare%20Data%20for%20Exploration-yellow?style=flat-square) ![Data-driven Decision Making](https://img.shields.io/badge/Data--driven%20Decision%20Making-orange?style=flat-square) ![Computational Data Analysis](https://img.shields.io/badge/Computational%20Data%20Analysis-orange?style=flat-square) ![Analyze Data to Answer Questions](https://img.shields.io/badge/Analyze%20Data%20to%20Answer%20Questions-orange?style=flat-square)
+![Master in Big Data & Business Intelligence](https://img.shields.io/badge/Master%20in%20Big%20Data%20%26%20Business%20Intelligence-blue?style=flat-square) 
+![MBA in Business Administration and Management](https://img.shields.io/badge/MBA%20in%20Business%20Administration%20and%20Management-blue?style=flat-square) 
+![Systems Administration in Network](https://img.shields.io/badge/Systems%20Administration%20in%20Network-lightblue?style=flat-square) 
+![Cybersecurity Technician](https://img.shields.io/badge/Cybersecurity%20Technician-lightblue?style=flat-square) 
+![Professional Certificate in Data Analysis](https://img.shields.io/badge/Professional%20Certificate%20in%20Data%20Analysis-lightblue?style=flat-square) 
+![C2 Proficient English Certificate](https://img.shields.io/badge/C2%20Proficient%20English%20Certificate-lightblue?style=flat-square) 
+![Professional Python Course](https://img.shields.io/badge/Professional%20Python%20Course-lightgreen?style=flat-square) 
+![Data Structures in Python](https://img.shields.io/badge/Data%20Structures%20in%20Python-lightgreen?style=flat-square) 
+![Professional Git Course](https://img.shields.io/badge/Professional%20Git%20Course-lightgreen?style=flat-square) 
+![Bash Scripting – DevOps Bootcamp](https://img.shields.io/badge/Bash%20Scripting%20%E2%80%93%20DevOps%20Bootcamp-lightgreen?style=flat-square) 
+![Scrum Master](https://img.shields.io/badge/Scrum%20Master-lightgreen?style=flat-square)
+![Cybersecurity Technician - INCIBE](https://img.shields.io/badge/Cybersecurity%20Technician%20-%20INCIBE-orange?style=flat-square)
+![Cybersecurity Analyst SOC](https://img.shields.io/badge/Cybersecurity%20Analyst%20SOC-red?style=flat-square)
 
 <p align="center">
     <img src="https://media.tenor.com/ONv6f0zBNFYAAAAj/hugging-grogu.gif" />
@@ -260,8 +272,6 @@
 </p>
 
 <hr style="border-color:green;">
-
-## 🛡️ ROLES
 
 ## 🛡️ ROLES
 
