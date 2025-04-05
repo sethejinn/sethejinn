@@ -263,7 +263,24 @@
 
 ## 🛡️ ROLES
 
-![Python Developer](https://img.shields.io/badge/Python%20Developer-3CB371?style=flat-square) ![Fullstack Developer](https://img.shields.io/badge/Fullstack%20Developer-FF5733?style=flat-square) ![Backend Developer](https://img.shields.io/badge/Backend%20Developer-FF4500?style=flat-square)
+## 🛡️ ROLES
+
+![Python Developer](https://img.shields.io/badge/Python%20Developer-3CB371?style=flat-square) 
+![Fullstack Developer](https://img.shields.io/badge/Fullstack%20Developer-FF5733?style=flat-square) 
+![Backend Developer](https://img.shields.io/badge/Backend%20Developer-FF4500?style=flat-square) 
+![Frontend Developer](https://img.shields.io/badge/Frontend%20Developer-FFD700?style=flat-square) 
+![DevOps Engineer](https://img.shields.io/badge/DevOps%20Engineer-00BFFF?style=flat-square) 
+![Data Engineer](https://img.shields.io/badge/Data%20Engineer-8A2BE2?style=flat-square) 
+![Cybersecurity Analyst](https://img.shields.io/badge/Cybersecurity%20Analyst-DC143C?style=flat-square) 
+![System Administrator](https://img.shields.io/badge/System%20Administrator-D2691E?style=flat-square) 
+![Technical Support Specialist](https://img.shields.io/badge/Technical%20Support%20Specialist-F08080?style=flat-square) 
+![Software Engineer](https://img.shields.io/badge/Software%20Engineer-006400?style=flat-square) 
+![Big Data Engineer](https://img.shields.io/badge/Big%20Data%20Engineer-2E8B57?style=flat-square)
+![IT Consultant](https://img.shields.io/badge/IT%20Consultant-A52A2A?style=flat-square)
+![Game Developer](https://img.shields.io/badge/Game%20Developer-F4A300?style=flat-square) 
+![Team Coordinator](https://img.shields.io/badge/Team%20Coordinator-FF1493?style=flat-square) 
+![Intelligence Analyst](https://img.shields.io/badge/Intelligence%20Analyst-4B0082?style=flat-square) 
+
 
 <p align="center">
     <img src="https://media.tenor.com/dJq8WjCg9ygAAAAj/star-wars-cosplay.gif" />
