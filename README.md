@@ -55,7 +55,7 @@
 
 ## 🛡️ ROLES
 
-![Python Developer](https://img.shields.io/badge/Python%20Developer-3CB371?style=flat-square) ![Fullstack Developer](https://img.shields.io/badge/Fullstack%20Developer-FF5733?style=flat-square) ![Backend Developer](https://img.shields.io/badge/Backend%20Developer-FF4500?style=flat-square) ![IT Technician](https://img.shields.io/badge/IT%20Technician-FF8C00?style=flat-square) ![N2 Support Technician](https://img.shields.io/badge/N2%20Support%20Technician-FFA07A?style=flat-square)
+![Python Developer](https://img.shields.io/badge/Python%20Developer-3CB371?style=flat-square) ![Fullstack Developer](https://img.shields.io/badge/Fullstack%20Developer-FF5733?style=flat-square) ![Backend Developer](https://img.shields.io/badge/Backend%20Developer-FF4500?style=flat-square)
 
 <p align="center">
     <img src="https://media.tenor.com/dJq8WjCg9ygAAAAj/star-wars-cosplay.gif" />
