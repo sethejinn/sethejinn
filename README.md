@@ -188,8 +188,6 @@
 
 ## 🛡️ SKILLS  
 
-## 🛡️ SKILLS  
-
 ![Database Administration](https://img.shields.io/badge/Database%20Administration-lightblue?style=flat-square) 
 ![Programming Languages](https://img.shields.io/badge/Programming%20Languages-lightblue?style=flat-square) 
 ![Backend Development](https://img.shields.io/badge/Backend%20Development-lightblue?style=flat-square) 
